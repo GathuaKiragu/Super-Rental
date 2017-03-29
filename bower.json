@@ -1,5 +1,18 @@
 {
   "name": "super-rentals",
-  "dependencies": {
-  }
+  "dependencies": {},
+  "authors": [
+    "Gathua Kiragu <kiragugathua@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
